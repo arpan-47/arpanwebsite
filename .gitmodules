@@ -4,3 +4,7 @@
 [submodule "themes/gruvbox"]
 	path = themes/gruvbox
 	url = https://github.com/schnerring/hugo-theme-gruvbox
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
